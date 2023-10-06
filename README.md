@@ -4,7 +4,7 @@ src="https://github.com/ngodinhtri/ngodinhtri/blob/main/img/Hi.gif" height="32" 
 [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=ngodinhtri&data=followers,repositories,stars,commits)]([https://github.com/Jurredr/github-widgetbox](https://github.com/ngodinhtri))
 
 
-- 👀 I’m interested in Front-end web development. Dedicated to being a fullstack engineer.
+- 👀 I’m interested in Front-end web development.
 - 🌿 I'm currently learning:
 <br><br>
 [![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)](#)
